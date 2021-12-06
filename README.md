@@ -17,9 +17,3 @@
 
 
 </p>
-
-<p>
-
-[![card](https://github-readme-stats.vercel.app/api?username=yaralviana&theme=tokyonight)](https://github.com/yaralviana/)
-
-</p>
