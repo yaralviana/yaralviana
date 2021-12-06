@@ -14,7 +14,7 @@ Aluna do Bootcamp de Desenvolvimento Backend (JavaScript, Git/Github, NodeJS, Re
 [linkedin]: https://www.linkedin.com/in/yaralviana/
 <br>
 
-#### Rede Sociais!
+#### Rede Sociais:
 
 🐦 [twitter][twitter]
 👔 [linkedin][linkedin]
