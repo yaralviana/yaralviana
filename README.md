@@ -7,13 +7,11 @@ Aluna do Bootcamp de Desenvolvimento Backend (JavaScript, Git/Github, NodeJS, Re
 <p align="left">
   💌 Entre em contato comigo: ⤵️
 </p>
+[twitter]: https://twitter.com/bizarrexblue
+[linkedin]: https://www.linkedin.com/in/yaralviana/
+<br>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=yaralviana@gmail.com"/></a>
+#### Rede Sociais!
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaralviana/"/></a>
-
-
-</p>
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
