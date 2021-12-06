@@ -17,4 +17,5 @@
 
 
 </p>
+[![yaralviana](https://github-readme-stats.vercel.app/api/top-langs/?username=yaralviana&hide=html&layout=compact&theme=default)](https://github.com/yaralviana/)
  
