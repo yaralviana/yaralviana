@@ -18,5 +18,5 @@
 
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=yaralviana&theme=default)](https://github.com/yaralviana/)
+[![card](https://github-readme-stats.vercel.app/api?username=yaralviana&theme=tokyonight)](https://github.com/yaralviana/)
 
