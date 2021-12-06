@@ -5,6 +5,11 @@ Aluna do Bootcamp de Desenvolvimento Backend (JavaScript, Git/Github, NodeJS, Re
 </p>
 
 <p align="left">
+
+</p>
+
+
+
 [twitter]: https://twitter.com/bizarrexblue
 [linkedin]: https://www.linkedin.com/in/yaralviana/
 <br>
@@ -14,4 +19,3 @@ Aluna do Bootcamp de Desenvolvimento Backend (JavaScript, Git/Github, NodeJS, Re
 🐦 [twitter][twitter]
 👔 [linkedin][linkedin]
 
-</p>
