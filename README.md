@@ -17,12 +17,10 @@ Meus interesses incluem:
 
 
 
-[twitter]: https://twitter.com/bizarrexblue
 [linkedin]: https://www.linkedin.com/in/yaralviana/
 <br>
 
 #### Rede Sociais:
 
-🐦 [twitter][twitter]
 👔 [linkedin][linkedin]
 
