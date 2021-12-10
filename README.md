@@ -8,9 +8,9 @@ Olá! Meu nome é Yara, sou aluna do Bootcamp de Desenvolvimento Backend (JavaSc
 Meus interesses incluem: 
 
 - Tecnologia 
-- Jogos (especialmente RPGs)
+- Animes e Jogos (especialmente RPGs)
 - Animais
-- Livros
+- Livros e Mangás
 - Artes
   
 </p>
