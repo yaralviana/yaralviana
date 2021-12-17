@@ -8,7 +8,7 @@ Olá! Meu nome é Yara, sou aluna do Bootcamp de Desenvolvimento Backend (JavaSc
 Meus interesses incluem: 
 
 - Tecnologia 
-- Animes e Jogos (especialmente [ARPGs](https://steamuserimages-a.akamaihd.net/ugc/789730529885523487/8FAC0D512B6D498E487081F6EB558D626825AB41/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false))
+- Animes e Jogos (especialmente [Action RPGs](https://steamuserimages-a.akamaihd.net/ugc/789730529885523487/8FAC0D512B6D498E487081F6EB558D626825AB41/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false))
 - Animais
 - Livros e Mangás
 - Artes
