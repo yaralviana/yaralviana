@@ -3,7 +3,7 @@
 <h1 style="color:#FF1493"> Heyo! I'm Yara.</h1>
 
 <p align="left">
-## About me:
+About me:
 
 -  System Analysis and Development student.
 -  I’m studying on web development technologies like JavaScript/TypeScript, Node and React.
