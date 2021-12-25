@@ -1,18 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-Olá! Meu nome é Yara, sou aluna do Bootcamp de Desenvolvimento Backend (JavaScript, Git/Github, NodeJS, RestAPI,  MongoDB, autenticação JWT e Introdução à Automação de Testes) pela {reprograma} e estudante bolsista de Análise e Desenvolvimento de Sistemas.
-</p>
+<h1 style="color:#FF1493"> Heyo! I'm Yara.</h1>
 
 <p align="left">
-Meus interesses incluem: 
+## About me:
 
-- Tecnologia 
-- Animes e Jogos (especialmente [Action RPGs](https://steamuserimages-a.akamaihd.net/ugc/789730529885523487/8FAC0D512B6D498E487081F6EB558D626825AB41/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false))
-- Animais
-- Livros e Mangás
-- Artes
-  
+-  System Analysis and Development student.
+-  I’m studying on web development technologies like JavaScript/TypeScript, Node and React.
+-  I’m currently learning about Backend and Algorithms.   
 </p>
 
 
