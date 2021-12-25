@@ -6,7 +6,7 @@
 About me:
 
 -  System Analysis and Development student.
--  I’m studying on web development technologies like JavaScript/TypeScript, Node and React.
+-  I’m studying web development technologies like JavaScript/TypeScript, Node and React.
 -  I’m currently learning about Backend and Algorithms.   
 </p>
 
