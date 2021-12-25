@@ -15,7 +15,7 @@ About me:
 [linkedin]: https://www.linkedin.com/in/yaralviana/
 <br>
 
-#### Rede Sociais:
+#### Social Networks:
 
 👔 [linkedin][linkedin]
 
