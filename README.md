@@ -9,7 +9,7 @@ About me:
 -  Also learning data structures and algorithms.
 </p>
 
-<img src="https://anime-girls-holding-programming-books.netlify.app/static/de50ab96ebd3bb4272f73d4d053f50eb/dd8b2/Murakami_Shiina_Holding_Computer_C_Programming_Language.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
+<img src="https://pbs.twimg.com/media/DEfm7bIXoAA3Xt0?format=jpg" min-width="700px" max-width="700px" width="400px" align="center" alt="Computador iuriCode">
 
 [linkedin]: https://www.linkedin.com/in/yaralviana/
 <br>
