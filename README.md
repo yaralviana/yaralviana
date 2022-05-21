@@ -5,7 +5,7 @@
 About me:
 
 -  System Analysis and Development student.
--  I'm studying web development technologies like JavaScript, Node, React and Express.js.
+-  I'm studying web development technologies like JavaScript/TypeScript, Node, React and Express.js.
 -  Also learning data structures and algorithms.
 </p>
 
