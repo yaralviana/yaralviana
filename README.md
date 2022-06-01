@@ -5,8 +5,6 @@
 About me:
 
 -  System Analysis and Development student.
--  I'm studying web development technologies like JavaScript/TypeScript, Node, React and Express.js.
--  Also learning data structures and algorithms.
 </p>
 
 <img src="https://pbs.twimg.com/media/DEfm7bIXoAA3Xt0?format=jpg" min-width="700px" max-width="700px" width="400px" align="center" alt="Computador iuriCode">
