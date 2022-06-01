@@ -2,8 +2,6 @@
 <h1 style="color:#FF1493"> Heyo! I'm Yara.</h1>
 
 <p align="left">
-About me:
-
 -  System Analysis and Development student.
 </p>
 
