@@ -1,5 +1,5 @@
 
-<h1 style="color:#FF1493"> Heyo! I'm Yara.</h1>
+<h1 style="color:#FF1493"> Heyo! =) </h1>
 
 <p align="left">
  - 📚 System Analysis and Development student.
