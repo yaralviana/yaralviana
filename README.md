@@ -4,7 +4,7 @@
 <p align="left">
  - 📚 System Analysis and Development student.
  <br>
- - ☕ I’m currently learning web technologies (Nodejs - React/React Native - TypeScript/JavaScript)
+ - 🍵 I’m currently learning web technologies (Nodejs - React/React Native - TypeScript/JavaScript)
 </p>
 
 [linkedin]: https://www.linkedin.com/in/yaralviana/
