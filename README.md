@@ -1,11 +1,11 @@
 
 <h1 style="color:#FF1493"> Heyo! =) </h1>
 
-<p align="left">
+
  - 📚 System Analysis and Development student.
- <br>
  - 🍵 I’m currently learning web technologies (Nodejs - React/React Native - TypeScript/JavaScript)
-</p>
+ - Web developer intern [PrixTech](https://prix.tech/)
+
 
 [linkedin]: https://www.linkedin.com/in/yaralviana/
 <br>
