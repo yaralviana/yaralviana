@@ -4,7 +4,7 @@
 
  - 📚 System Analysis and Development student.
  - 🍵 I’m currently learning web technologies (Nodejs - React/React Native - TypeScript/JavaScript)
- - 💻 Web developer intern [PrixTech](https://prix.tech/)
+ - 💻 Web developer intern @ [PrixTech](https://prix.tech/)
 
 
 [linkedin]: https://www.linkedin.com/in/yaralviana/
