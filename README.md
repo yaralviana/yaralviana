@@ -4,13 +4,11 @@
 
  - 📚 System Analysis and Development student.
  - 🍵 I’m currently learning web technologies (Nodejs - React - TypeScript/JavaScript)
- - 💻 Full stack developer @ [PrixTech](https://prix.tech/)
+ - 💻 Full stack developer <a href="https://prix.tech/">@ PrixTech</a>
 
 
-[linkedin]: https://www.linkedin.com/in/yaralviana/
 <br>
 
-#### Contact Me:
-
-👔 [linkedin][linkedin]
+<h3 style="color:#FF1493"> Contact me: 
+ - <a href="https://www.linkedin.com/in/yaralviana/">linkedin</a> 💻 </h5> 
 </pre>
