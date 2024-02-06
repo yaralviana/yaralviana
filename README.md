@@ -1,11 +1,8 @@
 
 <pre>
 <h1> Heyo! =) </h1>
-
- - 📚 System Analysis and Development student.
  - 🍵 I’m currently learning web technologies (Nodejs - React - TypeScript/JavaScript)
  - 💻 Full stack developer <a href="https://prix.tech/">@ PrixTech</a>
-
 
 <br>
 
