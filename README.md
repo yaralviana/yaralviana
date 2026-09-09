@@ -1,7 +1,7 @@
 
 <pre>
 <h1> Heyo! =) </h1>
-🌊 Python & .NET Developer on OCEANOP - real-time meteorological & oceanographic data
+🌊 Python & .NET Developer on OCEANOP, a real-time meteorological & oceanographic data platform
 🎓 Graduated in Systems Analysis and Development, with a postgraduate degree in Data Science and Artificial Intelligence
 🛰️ Backend development enthusiast with a strong interest in geospatial data and bioinformatics-driven applications
 </pre>
